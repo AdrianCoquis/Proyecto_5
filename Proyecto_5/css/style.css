@@ -1,22 +1,27 @@
-.fondoimage{
+.fondoimage {
     background-image: url(../Img/fondoimage.jpg);
     height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 00px -200px;
 }
+
 header {
     background-color: #f7f7f7;
 }
+
 section {
-        text-align: center;
+    text-align: center;
 }
+
 body {
     background-color: black;
 }
+
 nav {
     max-width: 100%;
 }
+
 .naveg {
     width: 45%;
     margin-right: 50px;
@@ -24,34 +29,45 @@ nav {
     justify-content: space-between;
     display: flex;
 }
+
 h1 {
-text-align: left;
-font-size: 60px;
-color: black;
-margin-left: 75px;
+    text-align: left;
+    font-size: 60px;
+    color: black;
+    margin-left: 75px;
+    text-shadow: rgb(165, 165, 165) 0.1em 0.1em 0.2em;
 }
+
 h2 {
     font-size: 30px;
-    color:cornflowerblue;
-    }
+    color: cornflowerblue;
+    text-shadow: aquamarine 0.1em 0.1em 0.2em;
+}
+
 a {
     text-decoration: none;
     text-align: center;
 }
+
 .text1 {
     font-size: 50px;
-    color:white;
+    color: white;
     font-style: oblique;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
+
 .text2 {
     font-size: 30px;
     color: white;
     font-style: oblique;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
+
 .text3 {
     font-size: 50px;
     color: white;
     font-style: oblique;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 .logo {
@@ -59,20 +75,33 @@ a {
     display: flex;
     margin-left: 20px;
 }
+
 .divprin {
-     width: 50%; margin-left: 300px; height: 200px;
+    width: 30%;
+    margin-left: 10px;
+    height: 200px;
 }
+
 .divtext1 {
-     width: 50%; margin-left: 200px; height: 200px;
+    width: 50%;
+    margin-left: 200px;
+    height: 200px;
     text-align: left;
-    
+
 }
+
 .divtext2 {
-     width: 50%; margin-left: 400px; height: 150px;
+    width: 50%;
+    margin-left: 300px;
+    height: 150px;
 }
+
 .divtext3 {
-     width: 50%; margin-left: 500px; height: 200px;
+    width: 50%;
+    margin-left: 550px;
+    height: 200px;
 }
+
 .text4 {
     font-size: 15px;
     color: white;
